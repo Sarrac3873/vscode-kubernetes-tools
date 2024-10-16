@@ -1230,7 +1230,7 @@
         "redhat.vscode-yaml"
     ],
     "dependencies": {
-        "@kubernetes/client-node": "^0.14.0",
+        "@kubernetes/client-node": "^0.22.1",
         "ajv": "^6.9.1",
         "await-notify": "^1.0.1",
         "clipboardy": "^1.2.3",
@@ -1303,7 +1303,7 @@
         "tslint": "^5.18.0",
         "typescript": "^3.5.2",
         "vscode-test": "^1.4.1",
-        "webpack": "^4.35.2",
+        "webpack": "^5.0.0",
         "webpack-cli": "^3.3.5"
     },
     "repository": {
